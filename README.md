@@ -18,8 +18,6 @@ the number of occupants in a room.
 *   Python
 *   Numpy
 *   Pandas
-*   Keras
-*   Tensorflow
 *   Matplotlib
 
 # Dataset
